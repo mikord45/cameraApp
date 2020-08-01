@@ -43,9 +43,9 @@ class FotoItem extends Component {
                     }
 
                 </TouchableOpacity>
-                <Text style={{ position: "absolute", left: 0, bottom: 0 }}>
+                {/* <Text style={{ position: "absolute", left: 0, bottom: 0 }}>
                     {this.props.info.id}
-                </Text>
+                </Text> */}
             </View>
         );
     }

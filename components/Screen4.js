@@ -89,7 +89,7 @@ class Screen4 extends Component {
                                     />
                                 </TouchableOpacity>
                             </View>
-                            <View style={{ flex: 1 }}>
+                            {/* <View style={{ flex: 1 }}>
                                 <TouchableOpacity style={{ justifyContent: "center", flexDirection: "row", alignItems: "baseline" }}>
                                     <Image
                                         source={require("./img/settings.png")}
@@ -98,7 +98,7 @@ class Screen4 extends Component {
 
                                     />
                                 </TouchableOpacity>
-                            </View>
+                            </View> */}
                         </View>
                     </Camera>
                 </View >

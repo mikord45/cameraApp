@@ -27,7 +27,7 @@ class Screen1 extends Component {
             <View style={{ flex: 1 }}>
                 <View style={{ flex: 1, backgroundColor: "#de31c7", justifyContent: "center", alignItems: "center" }}>
 
-                    <Text style={{ fontSize: this.state.fSize }} > GeoMap App </Text>
+                    <Text style={{ fontSize: this.state.fSize }} > Camera App </Text>
                     <Text style={{ fontSize: this.state.fSize2 }}> show galery pictures</Text>
                     <Text style={{ fontSize: this.state.fSize2 }}> take pictures from camera</Text>
                     <Text style={{ fontSize: this.state.fSize2 }}> save photo to device</Text>
